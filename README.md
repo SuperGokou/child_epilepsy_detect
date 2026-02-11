@@ -15,7 +15,7 @@ A clinical-grade web interface for automated pediatric epilepsy EEG analysis, po
 </p>
 
 <p align="center">
-  <a href="https://supergokou.github.io/deepseek_epilepsy_detect/">
+  <a href="https://supergokou.github.io/child_epilepsy_detect/">
     <img src="https://img.shields.io/badge/Live_Demo-Visit-FF6B6B?logo=googlechrome&logoColor=white" alt="Live Demo" />
 
   </a>
