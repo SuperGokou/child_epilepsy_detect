@@ -12,13 +12,13 @@ A clinical-grade web interface for automated pediatric epilepsy EEG analysis, po
   <img src="https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white" alt="Vite 6" />
   <img src="https://img.shields.io/badge/TailwindCSS-4-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind v4" />
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
-  <a href="https://supergokou.github.io/deepseek_epilepsy_detect/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit-FF6B6B?logo=googlechrome&logoColor=white" alt="Live Demo" />
-  </a>
+
 </p>
 
+  <a href="https://supergokou.github.io/deepseek_epilepsy_detect/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit-FF6B6B?logo=googlechrome&logoColor=white" alt="Live Demo" />
 
-
+  </a>
 
 ## Table of Contents
 
