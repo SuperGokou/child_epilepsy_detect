@@ -10,7 +10,5 @@ export default defineConfig({
       "@": fileURLToPath(new URL("./src", import.meta.url)),
     },
   },
-  // For GitHub Pages: set to "/<repo-name>/" before deploying
-  // For Render or local dev: use "/"
-  base: "/",
+  base: "/deepseek_epilepsy_detect/",
 });
