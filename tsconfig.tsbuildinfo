@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/dashboard.tsx","./src/components/history.tsx","./src/components/layout.tsx","./src/components/protocol.tsx","./src/components/report.tsx","./src/components/settings.tsx","./src/components/upload.tsx","./src/components/waveformchart.tsx"],"version":"5.9.3"}
